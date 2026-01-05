@@ -1,5 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javeenkumar&theme=dark)
-
 # 💫 About Me:
 Computer Science Student | Data Science & AI Enthusiast | Python | NumPy | Pandas | Matplotlib | Machine Learning | Deep Learning | Data Analysis | AI Applications
 
