@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science Student | Mobile App Developer | Flutter (Cross-Platform) | REST APIs| Firebase | SQL/MySQL | Java & Dart | Aspiring Software Engineer<br>| Data Science & AI Enthusiast | Python | NumPy | Pandas | Matplotlib | Machine Learning | Deep Learning | Data Analysis | AI Applications
+Computer Science Student | Mobile App Developer | Flutter (Cross-Platform) | REST APIs| Firebase | SQL/MySQL | Java & Dart | Aspiring Software Engineer | Data Science & AI Enthusiast | Python | NumPy | Pandas | Matplotlib | Machine Learning | Deep Learning | Data Analysis | AI Applications
 
 
 ## 🌐 Socials:
